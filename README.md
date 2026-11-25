@@ -1,4 +1,9 @@
-# Projeto-de-BD
+# Projeto Ianuaria
 Projeto de conclusão do 4° Bimestre de Banco de Dados.
 
-Este projeto consiste no desenvolvimento de um site de música em um grupo de três alunos, Aline Ramos, Gabriel M. e Gabriel N., composto por três páginas interligadas, utilizando HTML, CSS, JavaScript e MySQL. Na primeira página, o usuário poderá realizar seu cadastro. Na segunda página, terá acesso a um formulário para adicionar informações sobre músicas, que serão enviadas e armazenadas em um banco de dados MySQL. Na terceira página, as músicas cadastradas serão exibidas em formato de biblioteca musical, permitindo que o usuário visualize todas as músicas que adicionou à sua biblioteca.
+o projeto consiste em uma aplicação voltada a música. Onde um usuário com seu login e senha pode aproveitar um catálogo que possui várias músicas, além de poder adicionar as próprias músicas
+e saber mais sobre os artistas que desejar, podendo ver uma descrição sobre o artista e podendo colocar uma própria descrição sobre si mesmo, também podendo criar compilações com as músicas desejadas
+
+Aline Ramos - Banco de dados
+Gabriel Moreira - Backend
+Gabriel Nicolas - Frontend
